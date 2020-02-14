@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540376846 source:c:\users\dkuu\desktop\ѧϰ\c\new\kuu3\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+

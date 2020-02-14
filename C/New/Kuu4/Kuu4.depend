@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1539163291 source:c:\users\dkuu\desktop\ѧϰ\c\new\kuu4\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1539162827 source:c:\users\dkuu\desktop\ѧϰ\c\new\kuu4\aki1.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544948787 source:c:\users\dkuu\desktop\ѧϰ\c\new\bigvsbig\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<math.h>
+
